@@ -18,6 +18,7 @@ class Main extends Component{
 			<Route path="/inventory" />
 			
 		</Switch>
+		<Footer />
 	  </div>
 	  );
   }
